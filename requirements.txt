@@ -1,0 +1,25 @@
+# Core dependencies
+opencv-python
+numpy
+torch
+transformers
+openai
+
+# Image & camera support
+Pillow
+pyyaml
+
+# For Orbbec depth camera (if Python bindings are used)
+pyorbbecsdk
+
+# For LIMO robot SDK (if Python wrapper is used)
+pylimo
+
+# Utils
+tqdm
+requests
+
+# Optional: for logs, debugging, and environment handling
+rich
+matplotlib
+scipy

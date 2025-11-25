@@ -1,0 +1,160 @@
+2024-12-26 13:20:55,235 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735190455.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:20:58,953 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735190458.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:21:02,385 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735190462.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:21:05,719 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735190465.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+时间步 0: 动作 0，移动到视点 [0, 0],是 place: 0, 对应 image 0
+2024-12-26 13:21:23,289 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735190483.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:21:26,587 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735190486.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:21:29,833 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735190489.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:21:33,151 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735190493.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:35:52,400 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191352.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:35:56,465 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191356.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:35:59,790 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191359.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:36:03,171 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191363.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+时间步 0: 动作 0，移动到视点 [0, 0],是 place: 0, 对应 image 0
+2024-12-26 13:36:15,765 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191375.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:36:19,148 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191379.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:36:22,532 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191382.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:36:25,937 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191385.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:44:47,766 - INFO - 开始执行指令: 请你先直行至四周都是桌椅的地右转直行到柜子处后再左转行至大门处
+2024-12-26 13:44:50,272 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191890.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:44:53,854 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191893.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:44:57,277 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191897.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:45:00,641 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191900.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:45:09,813 - INFO - 时间步 0: 动作 0，移动到视点 [0, 0],是 place: 0, 对应 image 0
+2024-12-26 13:45:10,832 - INFO - Step 0: 当前状态 [0, 1], 下一步动作 {
+  "Thought": "All images appear to show a similar setting with a room that contains desks, chairs, and other office-related furniture. Since the instruction directs me to move straight to a place surrounded by desks and chairs, it aligns with all visible options. At this stage, I must explore a connected place to see if it fulfills the instruction and map further connections.",
+  "New Planning": [
+    "1. Go forward to Place 1 (Image 1).",
+    "2. Evaluate surroundings for 'tables and chairs' to confirm correct directions.",
+    "3. Look for a path to a cabinet, then proceed and plan further to eventually find the door."
+  ],
+  "Action": "A"
+}
+2024-12-26 13:45:12,849 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191912.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:45:16,237 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735191916.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:47:06,530 - INFO - 开始执行指令: 你先直行至四周都是桌椅的地右转直行到柜子处后再左转行至大门处
+2024-12-26 13:47:09,039 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192029.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:47:12,681 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192032.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:47:16,061 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192036.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:47:19,403 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192039.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:47:32,179 - INFO - 时间步 0: 动作 0，移动到视点 [0, 0],是 place: 0, 对应 image 0
+2024-12-26 13:47:33,192 - INFO - Step 0: 当前状态 [0, 1], 下一步动作 {
+  "Thought": "All four images are identical, showing a room with tables and chairs. According to the instruction, I need to first move straight to a place surrounded by tables and chairs. Since all images are the same, I can choose any direction to start moving forward.",
+  "New Planning": [
+    "1. Move forward to Place 1.",
+    "2. Look for a place surrounded by tables and chairs.",
+    "3. Turn right and move straight to the cabinet.",
+    "4. Turn left and move towards the big door."
+  ],
+  "Action": "A"
+}
+2024-12-26 13:47:35,213 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192055.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:47:38,548 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192058.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:47:41,801 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192061.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:47:45,213 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192065.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:47:52,496 - INFO - 时间步 1: 动作 1，移动到视点 [0, 1],是 place: 1, 对应 image 1
+2024-12-26 13:47:55,540 - INFO - Step 1: 当前状态 [1, 1], 下一步动作 {
+  "Thought": "Based on the instruction, I need to move forward to a place surrounded by tables and chairs, then turn right and move straight to the cabinet, and finally turn left to reach the big door. I have already moved forward to Place 1. Now, I need to look for a place surrounded by tables and chairs. Image 1 shows a place with tables and chairs, so I am currently in the correct location. Next, I need to turn right and move straight to the cabinet. Image 2 shows a cabinet, so I should turn right to Place 6.",
+  "New Planning": [
+    "1. Turn right to Place 6.",
+    "2. Move straight to the cabinet.",
+    "3. Turn left and move towards the big door."
+  ],
+  "Action": "B"
+}
+2024-12-26 13:47:57,564 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192077.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:48:00,948 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192080.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:48:04,309 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192084.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:48:07,689 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192087.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:56:49,556 - INFO - 开始执行指令: 你先直行至四周都是桌椅的地右转直行到柜子处后再左转行至大门处
+2024-12-26 13:56:52,060 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192612.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:56:55,965 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192615.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:56:59,378 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192619.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-26 13:57:02,744 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735192622.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 13:44:08,911 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735278248.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 13:44:12,546 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735278252.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 13:44:15,830 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735278255.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 13:44:19,125 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735278259.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 13:51:43,227 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735278703.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 13:51:47,050 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735278707.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 13:51:50,376 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735278710.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 13:51:53,652 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735278713.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:08:02,320 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735279682.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:08:06,042 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735279686.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:08:10,451 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735279690.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:08:13,803 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735279693.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:21:02,235 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735280462.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:21:06,032 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735280466.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:21:09,401 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735280469.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:21:12,754 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735280472.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:25:02,112 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735280702.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:25:05,758 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735280705.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:25:09,086 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735280709.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:25:12,381 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735280712.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:31:17,996 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735281077.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:31:21,813 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735281081.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:31:25,157 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735281085.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:31:28,477 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735281088.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:31:46,820 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735281106.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:31:50,209 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735281110.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:31:54,196 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735281114.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:31:57,420 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735281117.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:32:18,054 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735281138.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:40:59,061 - INFO - 导入大模型API模块
+2024-12-27 14:43:43,546 - INFO - 您好，我是Limo,很高兴为您服务。请您输入导航指令:
+2024-12-27 14:47:49,595 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282069.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:47:53,210 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282073.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:47:56,521 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282076.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:47:59,909 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282079.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:48:18,689 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282098.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:48:22,001 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282102.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:48:25,305 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282105.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:48:28,693 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282108.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:48:46,409 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282126.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:48:49,777 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282129.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:48:53,090 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282133.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:48:56,477 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282136.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:49:15,653 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282155.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:49:19,037 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735282159.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 14:50:11,753 - INFO - 导入大模型API模块
+2024-12-27 14:50:11,754 - INFO - 您好，我是Limo,很高兴为您服务。请您输入导航指令:
+2024-12-27 15:22:55,458 - INFO - 开始执行指令: 找到一个绿色的杯子
+2024-12-27 15:22:58,034 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284178.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:23:01,653 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284181.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:23:05,155 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284185.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:23:08,507 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284188.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:27:57,657 - INFO - 开始执行指令: 找到蓝色的垃圾桶
+2024-12-27 15:28:00,400 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284480.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:28:03,925 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284483.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:28:07,151 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284487.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:28:10,381 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284490.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:28:27,553 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284507.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:28:30,779 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284510.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:28:34,005 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284514.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:28:37,425 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284517.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:28:54,764 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284534.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:28:57,973 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284537.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:29:01,313 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284541.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:29:04,580 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284544.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:29:24,002 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284564.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:29:27,325 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284567.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:29:30,580 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284570.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:29:33,818 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284573.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:29:51,445 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284591.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:29:54,885 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284594.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:29:58,089 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284598.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:30:01,425 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284601.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:30:22,773 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284622.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:30:26,008 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284626.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:30:29,289 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284629.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:30:32,500 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284632.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:30:56,021 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284656.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:30:59,321 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284659.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:31:02,561 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284662.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:31:05,845 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284665.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:31:32,621 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284692.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:31:35,869 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284695.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:31:39,102 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284699.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:31:42,405 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284702.jpg ,headers=:{'Content-Type': 'image/jpeg'}
+2024-12-27 15:32:05,461 - INFO - put object, url=:https://limo-1324771867.cos.ap-chengdu.myqcloud.com/llm_api/rgb_image_1735284725.jpg ,headers=:{'Content-Type': 'image/jpeg'}
